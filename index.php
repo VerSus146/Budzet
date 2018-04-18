@@ -9,7 +9,7 @@
 <body>
     <div id="container">
         <div id="srodek">
-            Liczenie pinionszkuf
+            Liczenie ciężko zarobionych szekli
             <hr>
             <div id="Logowanie">
                 <form action="Krystian.php" method="post">
